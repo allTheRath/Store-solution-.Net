@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Comerce-DbFirst", "E-Comerce-DbFirst.csproj", "{3DDFFEDC-8DB0-42FB-A1E4-5CDAF0B160FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDFFEDC-8DB0-42FB-A1E4-5CDAF0B160FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDFFEDC-8DB0-42FB-A1E4-5CDAF0B160FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDFFEDC-8DB0-42FB-A1E4-5CDAF0B160FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDFFEDC-8DB0-42FB-A1E4-5CDAF0B160FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E05B12-DB41-4678-85D2-311B74E74E99}
+	EndGlobalSection
+EndGlobal
